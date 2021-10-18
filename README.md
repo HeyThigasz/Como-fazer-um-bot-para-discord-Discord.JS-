@@ -1,2 +1,4 @@
-# Como-fazer-um-bot-para-discord-Discord.JS-
-Como fazer um bot para discord utilizando a livraria Discord.JS
+# Atualizações
+Este repositorio provavelmente terá atualizações quando for possivel.
+
+Qual quer dúvida basta contatar no discord ou no https://bluephoenixlist.xyz/
